@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/starlink-pyast-
 
 Home: https://pypi.org/project/starlink-pyast/
 
-Package license: GPL-3.0-only AND LGPL-2.1-only AND LGPL-3.0-only AND BSD-3-Clause
+Package license: LGPL-3.0-only AND BSD-3-Clause
 
 Summary: A Python wrapper for the Starlink AST library
 
